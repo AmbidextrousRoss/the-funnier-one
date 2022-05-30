@@ -1,0 +1,6 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+CFLAGS += -flto
+
+
+WPM_ENABLE = yes
